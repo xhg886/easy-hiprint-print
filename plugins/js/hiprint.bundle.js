@@ -11,6 +11,7 @@
 import jQuery from 'jquery';
 import JsBarcode from 'jsbarcode';
 import QRCode from 'qrcodejs2';
+import minicolors from 'jquery-minicolors';
 import hiwprint from './jquery.hiwprint.js';
 
 hiwprint(jQuery);

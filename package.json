@@ -1,6 +1,6 @@
 {
-  "name": "easy-print",
-  "version": "1.0.13",
+  "name": "easy-hiprint-print",
+  "version": "1.0.0",
   "description": "easy web print base hiprint",
   "main": "dist/bundle.js",
   "scripts": {
@@ -30,12 +30,15 @@
     "qrcode": "^1.4.4",
     "qrcode.react": "^1.0.0",
     "qrcodejs2": "0.0.2",
+    "jquery-minicolors": "2.1.10",
     "react": "^16.13.1"
   },
   "devDependencies": {
     "copy-webpack-plugin": "^5.1.1",
     "css-loader": "^3.5.3",
+    "file-loader": "^6.0.0",
     "style-loader": "^1.2.1",
+    "url-loader": "^4.1.0",
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.11"
   },

@@ -1,16 +1,16 @@
-# easy-print
+# easy-hiprint-print
 一个基于hiprint的打开即用的打印插件
 
 ## 安装使用
 
 安装
 ```
-npm i -D easy-print
+npm i -D easy-hiprint-print
 ```
 
 使用
 ```
-import hiprint from 'easy-print';
+import hiprint from 'easy-hiprint-print';
 import panel from './panel.js';
 
 // 初始化打印模板
@@ -61,7 +61,7 @@ const Demo = (() => {
 ```
 import React from 'react';
 import ReactDom from 'react-dom';
-import hiprint from 'easy-print';
+import hiprint from 'easy-hiprint-print';
 import panel from './panel.js';
 
 const printData = [];

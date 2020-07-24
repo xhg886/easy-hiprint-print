@@ -10,18 +10,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Haru1990/easy-print.git"
+    "url": "git+https://github.com/xhg886/easy-hiprint-print.git"
   },
   "keywords": [
     "easy",
+    "hiprint",
     "print"
   ],
-  "author": "fangxu",
+  "author": "fangxu,xhg,hotmi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Haru1990/easy-print/issues"
+    "url": "https://github.com/xhg886/easy-hiprint-print/issues"
   },
-  "homepage": "https://github.com/Haru1990/easy-print#readme",
+  "homepage": "https://github.com/xhg886/easy-hiprint-print#readme",
   "dependencies": {
     "babel-loader": "^8.1.0",
     "babel-preset-sofa-react": "^0.1.2",

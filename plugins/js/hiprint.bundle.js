@@ -1,6 +1,6 @@
 /**
  * jQuery Hiprint 2.5.3
- * 
+ *
  * Copyright (c) 2016-2019 www.hinnn.com. All rights reserved.
  *
  * Licensed under the LGPL or commercial licenses
@@ -13,7 +13,8 @@ import JsBarcode from 'jsbarcode';
 import QRCode from 'qrcodejs2';
 import minicolors from 'jquery-minicolors';
 import hiwprint from './jquery.hiwprint.js';
-
+import { jsPDF } from "jspdf";
+import html2canvas from 'html2canvas'
 hiwprint(jQuery);
 
 function _instanceof(left, right) { if (right != null && typeof Symbol !== "undefined" && right[Symbol.hasInstance]) { return !!right[Symbol.hasInstance](left); } else { return left instanceof right; } }

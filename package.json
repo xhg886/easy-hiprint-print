@@ -1,6 +1,6 @@
 {
   "name": "easy-hiprint-print",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "easy web print base hiprint",
   "main": "dist/bundle.js",
   "scripts": {
@@ -27,6 +27,8 @@
     "babel-loader": "^8.1.0",
     "babel-preset-sofa-react": "^0.1.2",
     "jquery": "3.3.1",
+    "html2canvas": "^1.3.2",
+    "jspdf": "^2.3.1",
     "jsbarcode": "^3.11.0",
     "qrcode": "^1.4.4",
     "qrcode.react": "^1.0.0",
